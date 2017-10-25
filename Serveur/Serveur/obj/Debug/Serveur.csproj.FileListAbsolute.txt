@@ -14,3 +14,6 @@ C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Serveur\Ser
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Serveur\Serveur\obj\Debug\Serveur.Form1.resources
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Serveur\Serveur\obj\Debug\Serveur.Properties.Resources.resources
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Serveur\Serveur\obj\Debug\Serveur.csproj.GenerateResource.Cache
+C:\Users\Camille\Desktop\Code\Chat_C-\Serveur\Serveur\bin\Debug\Serveur.exe.config
+C:\Users\Camille\Desktop\Code\Chat_C-\Serveur\Serveur\obj\Debug\Serveur.exe
+C:\Users\Camille\Desktop\Code\Chat_C-\Serveur\Serveur\obj\Debug\Serveur.pdb

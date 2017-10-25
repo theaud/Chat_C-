@@ -11,3 +11,6 @@ C:\Users\Camille\Desktop\Chat\Client\Client\obj\Debug\Client.pdb
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Client\Client\bin\Debug\Client.exe.config
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Client\Client\obj\Debug\Client.exe
 C:\Users\Camille\Desktop\Pour t'obliger à trier !\Pas Touche !\Chat\Client\Client\obj\Debug\Client.pdb
+C:\Users\Camille\Desktop\Code\Chat_C-\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Camille\Desktop\Code\Chat_C-\Client\Client\obj\Debug\Client.exe
+C:\Users\Camille\Desktop\Code\Chat_C-\Client\Client\obj\Debug\Client.pdb

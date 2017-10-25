@@ -18,7 +18,7 @@ namespace Serveur
     public partial class Form1 : Form
     {
         // Changer le chemin d'accès à la Base de Donnée pour faire fonctionner le programme
-        private const string CHEMIN_BASE = "C:\\Users\\Camille\\Desktop\\Chat\\Serveur\\Utilisateurs.mdb";
+        private const string CHEMIN_BASE = "C:\\Users\\Camille\\Desktop\\Code\\Chat_C-\\Serveur\\Utilisateurs.ldb";
         private OleDbConnection ConnexionBase = new OleDbConnection("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + CHEMIN_BASE);
 
         Socket sck = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
