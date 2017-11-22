@@ -1,0 +1,76 @@
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe.config
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\bin\Debug\chatroom_client.pdb
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\bin\Debug\MySql.Data.dll
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\bin\Debug\MySql.Data.xml
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client.resources
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client_login.resources
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.Properties.Resources.resources
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csproj.GenerateResource.Cache
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.exe
+C:\Users\87775\documents\visual studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.pdb
+C:\Users\87775\Documents\Visual Studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.chooseroom.resources
+C:\Users\87775\Documents\Visual Studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.createroom.resources
+C:\Users\87775\Documents\Visual Studio 2015\Projects\chatroomtry\chatroom_client\obj\Debug\chatroom_client.choose_room.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe.config
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\bin\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\bin\Debug\MySql.Data.dll
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\bin\Debug\MySql.Data.xml
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.chooseroom.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.choose_room.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client_login.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.createroom.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.Properties.Resources.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csproj.GenerateResource.Cache
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 3\chatroomtry\chatroom_client\obj\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe.config
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\chatroomtry.exe
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\MySql.Data.dll
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\MySql.Data.xml
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csprojResolveAssemblyReference.cache
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.choose_room.resources
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client_login.resources
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.createroom.resources
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.Properties.Resources.resources
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csproj.GenerateResource.Cache
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client.resources
+C:\Users\Océane\Music\Documents\S7\C#\version4\chatroomtry\chatroom_client\bin\Debug\chatroomtry.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe.config
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\chatroomtry.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\MySql.Data.dll
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\MySql.Data.xml
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csprojResolveAssemblyReference.cache
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.choose_room.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client_login.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.createroom.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.Properties.Resources.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csproj.GenerateResource.Cache
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\obj\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 6\chatroomtry\chatroom_client\bin\Debug\chatroomtry.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe.config
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\chatroom_client.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\chatroomtry.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\MySql.Data.dll
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\chatroomtry.pdb
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\bin\Debug\MySql.Data.xml
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csprojResolveAssemblyReference.cache
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.choose_room.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.client_login.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.createroom.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.Properties.Resources.resources
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.csproj.GenerateResource.Cache
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.exe
+C:\Users\Océane\Music\Documents\S7\C#\version 9\chatroomtry\chatroom_client\obj\Debug\chatroom_client.pdb
