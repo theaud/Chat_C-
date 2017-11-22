@@ -1,0 +1,9 @@
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\bin\Debug\Serveur.exe.config
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\bin\Debug\Serveur.exe
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\bin\Debug\Serveur.pdb
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.Form1.resources
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.Properties.Resources.resources
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.csproj.GenerateResource.Cache
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.exe
+C:\Users\Camille\Desktop\Chat\Projet\Serveur\Serveur\obj\Debug\Serveur.pdb
